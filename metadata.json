@@ -1,0 +1,10 @@
+{
+  "name": "CommPolisher",
+  "description": "Professional corporate communications transformer. Turns rough voice notes into polished emails.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Transformation"
+  ]
+}
